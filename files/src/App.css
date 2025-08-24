@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+  @apply bg-mucosa-blue text-white font-semibold px-4 py-2 rounded;
+}
+.btn-secondary {
+  @apply bg-mucosa-green text-white font-semibold px-4 py-2 rounded;
+}
+.btn-tertiary {
+  @apply bg-mucosa-yellow text-black font-semibold px-4 py-2 rounded;
+}
+.input {
+  @apply border rounded px-2 py-1;
+}
