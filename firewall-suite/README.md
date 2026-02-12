@@ -3,7 +3,11 @@
 Android local firewall project (no-root) using `VpnService` for on-device traffic filtering.
 
 ## Merge-conflict resolution note
-This README has been normalized to a concise, single-source version to reduce branch merge conflicts on this file.
+This README is intentionally concise and Android-focused to avoid recurring merge conflicts with older dual-platform text.
+
+## Scope decision
+- Current branch scope: **Android implementation only**.
+- Older references to `windows-local-firewall` / dual-platform layout are intentionally removed from this branch.
 
 ## Project layout
 
