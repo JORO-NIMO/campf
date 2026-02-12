@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Local Firewall</string>
+    <string name="start_firewall">Start Firewall</string>
+    <string name="stop_firewall">Stop Firewall</string>
+    <string name="allow_only_selected">Allow only selected apps</string>
+    <string name="block_all_apps">Block all apps</string>
+    <string name="privacy_notice">No HTTPS interception. No remote VPN/proxy. Filtering stays local.</string>
+</resources>
